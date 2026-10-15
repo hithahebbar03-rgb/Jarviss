@@ -1,0 +1,31 @@
+{
+  "identity": {
+    "name": {
+      "value": "Shankar",
+      "updated": "2026-06-28"
+    }
+  },
+  "preferences": {},
+  "projects": {},
+  "relationships": {
+    "girlfriend": {
+      "value": "has a girlfriend",
+      "updated": "2026-06-06"
+    },
+    "girlfriend_name": {
+      "value": "Hitha Hebbar",
+      "updated": "2026-06-28"
+    },
+    "girlfriend_full_name": {
+      "value": "Hitha Hebbar",
+      "updated": "2026-06-06"
+    }
+  },
+  "wishes": {
+    "son_should_be_neat": {
+      "value": "Son should be neat",
+      "updated": "2026-06-11"
+    }
+  },
+  "notes": {}
+}
